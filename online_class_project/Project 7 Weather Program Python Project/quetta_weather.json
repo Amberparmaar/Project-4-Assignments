@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 67.0097,
+        "lat": 30.199
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 27.21,
+        "feels_like": 26.05,
+        "temp_min": 27.21,
+        "temp_max": 27.21,
+        "pressure": 1007,
+        "humidity": 12,
+        "sea_level": 1007,
+        "grnd_level": 807
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 7.48,
+        "deg": 241,
+        "gust": 11.04
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1744899387,
+    "sys": {
+        "country": "PK",
+        "sunrise": 1744851761,
+        "sunset": 1744898398
+    },
+    "timezone": 18000,
+    "id": 1167528,
+    "name": "Quetta",
+    "cod": 200
+}
